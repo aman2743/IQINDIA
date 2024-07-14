@@ -1,0 +1,7 @@
+Xpath
+1.text()
+2.contains(text(),"")
+3.starts-with(text(),"")
+4.normalize-space()
+
+How to handle drop-down in selenium
